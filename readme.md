@@ -1,4 +1,4 @@
-# Simple Video Chat WebRTC
+<!-- # Simple Video Chat WebRTC
 
 ### By using [simple-peer](https://github.com/feross/simple-peer), this web app connects video chat between two clients.
 
@@ -9,4 +9,4 @@ Start - npm start
 
 For development run watchify - npm run watch  
 
-Open localhost in two browser tabs.
+Open localhost in two browser tabs. -->
